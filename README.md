@@ -66,8 +66,8 @@ return 0;
 ```
 
 # OUTPUT
+![275122044-30ed9b5b-e967-4b24-ad05-89337728d133](https://github.com/indrajasukumar/OS-EX.9-IMPLEMENTATION-OF-PAGING---MEMORY-MANAGEMENT-/assets/145115195/44a5240a-4a8c-437d-93f9-9c20227e36ef)
 
-![image](https://github.com/Harsayazheni/OS-EX.9-IMPLEMENTATION-OF-PAGING---MEMORY-MANAGEMENT-/assets/118708467/30ed9b5b-e967-4b24-ad05-89337728d133)
 
 # RESULT
 
